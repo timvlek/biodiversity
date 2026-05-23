@@ -1,0 +1,37 @@
+axes:
+  axisbelow: true
+  grid: true
+  grid.axis: y
+  labelpad: 12
+  spines:
+    bottom: false
+    left: true
+    right: false
+    top: false
+  titlesize: 14
+  titlepad: 14
+  titleweight: bold
+  
+grid:
+  alpha: 0.7
+
+figure:
+  autolayout: True
+  figsize: [10, 6]
+  titleweight: bold
+
+legend:
+  loc: lower right
+  frameon: False
+
+xaxis:
+  labellocation: left
+  
+yaxis:
+  labellocation: bottom
+
+xtick:
+  bottom: False
+
+ytick:
+  left: False

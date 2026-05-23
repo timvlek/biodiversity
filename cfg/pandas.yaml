@@ -1,0 +1,13 @@
+display:
+  date_yearfirst: True
+  expand_frame_repr: False
+  # float_format: '{:,.2f}'.format
+  max_rows: Null
+  max_columns: Null
+  multi_sparse: True
+  precision: 2
+  width: Null
+
+mode:
+  chained_assignment: 'raise'
+  use_inf_as_na: True
